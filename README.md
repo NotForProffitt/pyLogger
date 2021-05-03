@@ -7,6 +7,6 @@ Place the logger.py file anywhere on the target system and execute it. This will
 
 openLogger.bat checks the integrity of the script files, creates a log directory and file under its own directory, and starts the keylogger.
 
-server.bat starts an http server for LAN access of the log file. visit http://<target ip>:8000 to access the log file remotely.
+server.bat starts an http server for LAN access of the log file. visit http://\<target ip\>:8000 to access the log file remotely.
   
 The VBS script exists to stop the two batch scripts from opening command prompts that would betray the existence of the keylogger.
