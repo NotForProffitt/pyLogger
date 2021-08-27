@@ -10,3 +10,5 @@ openLogger.bat checks the integrity of the script files, creates a log directory
 server.bat starts an http server for LAN access of the log file. visit http://\<target ip\>:8000 to access the log file remotely.
   
 The VBS script exists to stop the two batch scripts from opening command prompts that would betray the existence of the keylogger.
+
+This exists purely for educational purposes, don't use it to steal other people's information. If you do, don't get caught. If you do, don't blame me. 
