@@ -1,5 +1,5 @@
 # pyLogger
-keylogger written in Python for CMSC 414
+keylogger written in Python for CMSC 414.
 
 To Use:
 
