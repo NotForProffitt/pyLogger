@@ -11,4 +11,4 @@ server.bat starts an http server for LAN access of the log file. visit http://\<
   
 The VBS script exists to stop the two batch scripts from opening command prompts that would betray the existence of the keylogger.
 
-This exists purely for educational purposes, don't use it to steal other people's information. If you do, don't get caught. If you do, don't blame me. 
+This exists purely for educational purposes, don't use it to steal other people's information.
